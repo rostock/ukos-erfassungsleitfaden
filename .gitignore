@@ -1,0 +1,4 @@
+# kompilierte Dateien und Cache
+build
+__pycache__/
+*.py[cod]
