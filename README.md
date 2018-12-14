@@ -6,6 +6,7 @@ Erfassungsleitfaden für *UkoS*, das *Umsetzungsprojekt kommunale Straßendaten 
 
 *   [*Python*](https://www.python.org)
 *   [*Virtualenv*](https://virtualenv.pypa.io)
+*   [*pip*](http://pip.pypa.io)
 
 ## Installation
 
