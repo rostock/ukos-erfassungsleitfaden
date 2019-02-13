@@ -1,6 +1,6 @@
 # *UkoS*-Erfassungsleitfaden
 
-Erfassungsleitfaden für *UkoS*, das *Umsetzungsprojekt kommunale Straßendaten Mecklenburg-Vorpommern*; gehostet bei der Hanse- und Universitätsstadt Rostock unter https://geo.sv.rostock.de/ukos-erfassungsleitfaden
+Erfassungsleitfaden für *UkoS*, das *Umsetzungsprojekt kommunale Straßendaten Mecklenburg-Vorpommern*; gehostet bei der Hanse- und Universitätsstadt Rostock unter https://www.ukos-mv.de/erfassungsleitfaden
 
 ## Voraussetzungen
 
